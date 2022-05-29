@@ -10,4 +10,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=janszendev&show_icons=true&theme=merko&locale=en&layout=compact" alt="janszendev" /></p>
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=JanszenDev)](https://github.com/anuraghazra/github-readme-stats)
-
+<p>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JanszenDev&count_private=true)</p>
